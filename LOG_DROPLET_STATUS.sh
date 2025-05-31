@@ -1,3 +1,4 @@
+@@ -0,0 +1,27 @@
 #!/bin/bash
 
 LOG_FILE="/var/log/droplet-health.log"
