@@ -12,7 +12,7 @@ TARGET_DIR="/var/www/html"
 LOG_FILE="/var/log/site_deploy.log"
 TIMESTAMP=$(date)
 
-echo "Deploymetn at $TIMESTAMP" >> $LOG_FILE
+echo "Deployment at $TIMESTAMP" >> $LOG_FILE
 
 #cd into target
 cd $REPO_DIR 
